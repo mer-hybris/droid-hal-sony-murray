@@ -33,4 +33,6 @@ Requires: droid-system
 /sdcard\
 %{nil}
 
+BuildRequires:  python3-base
+
 Source99: droid-hal-common.inc
