@@ -8,6 +8,7 @@
 
 %define have_custom_img_boot 1
 %define have_custom_img_recovery 1
+%define have_custom_vendor_boot 1
 
 %define enable_dtbo_update 1
 %define enable_vendor_boot_update 1
